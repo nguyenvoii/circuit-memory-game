@@ -1,0 +1,27 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+.vuepress/dist/
+.server/
+.serverless/
+.fusebox/
+.dynamodb/
+.tern-port/
+.lock-wscript
+ yarn-error.log
+pnpm-debug.log
+*.orig

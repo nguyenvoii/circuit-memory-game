@@ -1,0 +1,6 @@
+{
+  "name": "Circuit Match - Trò Chơi Trí Nhớ Linh Kiện Điện Tử",
+  "description": "Trò chơi ghép thẻ trí nhớ linh kiện điện tử, vừa giải trí vừa học về các thành phần mạch điện với đồ họa mạch in 3D.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
